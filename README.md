@@ -1,12 +1,11 @@
 <!-- Hello Partner! if you see my code, you see my mind... 3301 -->
-<h2 align="center"> Wellcome <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h2>
 
 ## __Ruan Silva__
 
 - 🇧🇷 Brazilian
 - ✒️ Minimalist
 - 🖥️ UI/UX Enthusiast
-- 🔎 CS'50s - Havard University (current)
+- 🔎 CS'50s - Havard University (next)
 - 🔎 Web Moderno - Cod3r
 
 <!-- About me -->
