@@ -4,46 +4,60 @@
 
 - 🇧🇷 Brazilian
 - ✒️ Minimalist
-- 🖥️ UI/UX Enthusiast
-- 🔎 CS'50s - Havard University (next)
-- 🔎 Web Moderno - Cod3r
+- 📚 Algorithm - Thomas Cormen
+- 🔎 CS'50s Introduction to Computer Science - Havard University
 
-<!-- About me -->
+<!-- shorting presentation -->
 ##### - Starting in web development, too many ideas to make true.
-##### - Front-End is my focus now.
+##### - Back-End is my focus now.
+##### - Now OnRails 💎
 
 ##
 
 <!-- I place all most important -->
-### Teachings:
-<div><br>
-  Most Used:<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40"/>
-  JavaScript<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40"/>
-  React<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" width="40" />
-  Html<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="30" width="40"/>
-  Css<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="40"/>
-  Postgresql<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="40"/>
-  Mysql<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30" widht="40" />
-  NodeJs<br>
-</div>
-&nbsp
 <div>
-  Little Used:<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="30" width="40"/>
-  VueJs<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="30" width="40" />
-  MongoDb<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40"/>
-  React-Native<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" width="40" />
-  AngularJs<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" width="40" />
-  Git<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40"/>
+  <a>Front-End</a>
 </div>
+
+##### - 1 year ago I started taking a course at Cod3r where I learned the whole EcmaScript ecosystem: Javascript, Html, Css, React, Angular, Vue, NodeJs.
+
+##### - In this course, I also learned about databases such as MySql, MongoDb, Postgresql.
+
+##### - I understood a little about the new technology of browsers, the WebWorkers, I found this proposal interesting.
+
+##### - I also learned object-oriented JavaScript, which changed the way I see progamation.
+
+##### - I got to know a little bit about test coverage, and I saw the importance of code quality.
+
+##
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" height="30" width="40">
+    <a>Back-End</a>
+</div>
+
+##### - After walking through the EcmaScript system wanted to know more, I felt that something was missing for me to be a good professional.
+
+##### - And I wanted to learn more about Data Structure and Algorithms, and how to implement them in practice.
+
+##### - And on the recommendation of a friend I became interested in the Ruby language and its RubyOnRails framework.
+
+##### - More and more I fall in love with the low level and how things happen "under the hood".
+
+##
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" width="30" />
+    <a>Studies and Books</a>
+</div>
+
+##### - Cod3r - Web Moderno (100h)
+
+##### · I am currently studying the CS'50 Introducing of Computer Science - Havard, I want to understand more about how the basis of everything works.
+
+##### · The plan after this course is to do: Graph Theory And Additive Combinatorics - MIT. I want to delve deeper into graphs :)
+
+##### Reading:
+##### 📕 The Drunk's Floor - Leonard Mlodinow
+##### 📙 Algorithms Teory and Pratice - Thomas Cormen
